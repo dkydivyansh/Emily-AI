@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/dkydivyansh/Emily-AI/main/logo.png">
 </p>
 <p align="center">     
-  <img hight="100px" src="https://img.shields.io/badge/Version-7.1.0-green?style=for-the-badge">
+  <img hight="100px" src="https://img.shields.io/badge/Version-0.1 Beta-green?style=for-the-badge">
   <img src="http://img.shields.io/github/license/amdivyansh/scriptbox95?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/amdivyansh/scriptbox95?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/amdivyansh/scriptbox95?color=teal&style=for-the-badge">
