@@ -1,6 +1,6 @@
 <h1 align="center">Emili AI</h1>
 <p align="center">
-<img src="[https://github.com/amdivyansh/scriptbox95/blob/41be77645ba8e66ef6a6489a328d972f62f95a7a/scriptbox95.png](https://github.com/dkydivyansh/Emily-AI/blob/main/logo.png)?raw=true">
+<img src="https://raw.githubusercontent.com/dkydivyansh/Emily-AI/main/logo.png">
 </p>
 <p align="center">     
   <img hight="100px" src="https://img.shields.io/badge/Version-7.1.0-green?style=for-the-badge">
