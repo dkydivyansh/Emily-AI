@@ -4,13 +4,12 @@
 </p>
 <p align="center">     
   <img hight="100px" src="https://img.shields.io/badge/Version-0.1 Beta-green?style=for-the-badge">
-  <img src="http://img.shields.io/github/license/amdivyansh/scriptbox95?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/amdivyansh/scriptbox95?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/amdivyansh/scriptbox95?color=teal&style=for-the-badge">
+  <img src="http://img.shields.io/github/license/dkydivyansh/Emily-AI?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/dkydivyansh/Emily-AI?color=red&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-amdivyansh-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-dkydivyansh-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash/Python/PHP/NPM-darkcyan?style=flat-square">
