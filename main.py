@@ -19,7 +19,7 @@ from PIL import Image
 import fitz
 import io
 from dta import *
-genai.configure(api_key='AIzaSyCNNWf-CnDR6anoAZMOHatyJc535lknx1I')
+genai.configure(api_key='GEMINI_KEY')
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 chat_type = 0
 import pygame
