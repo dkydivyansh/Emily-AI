@@ -18,6 +18,5 @@
 <h2 align="center">Screenshort</h2>
 <p align="center">
   <img src="https://dkydivyansh.com/wp-content/uploads/2024/09/Screenshot-2024-09-15-183607.png">
-  <img src="https://dkydivyansh.com/wp-content/uploads/2024/09/Screenshot-2024-09-15-183752.png">
-  <img src="https://dkydivyansh.com/wp-content/uploads/2024/09/Screenshot-2024-09-15-183821.png">
+
 </p>
