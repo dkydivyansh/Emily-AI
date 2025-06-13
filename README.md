@@ -1,4 +1,4 @@
-<h1 align="center">Emili AI</h1>
+<h1 align="center">Emily AI</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/dkydivyansh/Emily-AI/main/logo.png">
 </p>
