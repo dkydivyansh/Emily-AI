@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-dkydivyansh-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
+  <img src="https://img.shields.io/badge/Maintained%3F-No-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python?style=flat-square">
 </p>
 <h4>Introducing an advanced AI system seamlessly integrated into Windows, designed to handle a multitude of tasks effortlessly. Powered by Gemini, this intelligent assistant enhances productivity by automating everyday functions, responding to voice commands, and delivering real-time solutions. Whether it's managing files, opening apps, generating content, or even performing complex calculations, this AI is a powerhouse, redefining the way you interact with your device.</h4>
